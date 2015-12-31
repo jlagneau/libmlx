@@ -1,4 +1,4 @@
-# minilibx
+# libmlx
 
 Fork of project minilibx by Olivier Crouzet
 
